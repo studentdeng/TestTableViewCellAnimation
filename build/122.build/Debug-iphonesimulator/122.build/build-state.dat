@@ -1,0 +1,382 @@
+T122
+v7
+r0
+t350211121.013046
+cCheck dependencies
+cProcessInfoPlistFile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/Info.plist _22-Info.plist
+cCompileXIB /Users/curer/code/TestCode/122/MainWindow.xib
+cCompileXIB /Users/curer/code/TestCode/122/RootViewController.xib
+cCompileXIB /Users/curer/code/TestCode/122/Classes/TestVC.xib
+cCpResource build/Debug-iphonesimulator/122.app/Avatar1.png Avatar1.png
+cCompileXIB /Users/curer/code/TestCode/122/Classes/TestTableViewCell.xib
+cProcessPCH /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch.gch _22_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/main.o /Users/curer/code/TestCode/122/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/_22AppDelegate.o /Users/curer/code/TestCode/122/Classes/_22AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/RootViewController.o /Users/curer/code/TestCode/122/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestVC.o /Users/curer/code/TestCode/122/Classes/TestVC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestTableViewCell.o /Users/curer/code/TestCode/122/Classes/TestTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122 normal i386
+cGenerateDSYMFile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app.dSYM /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122
+cTouch /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/curer/code/TestCode/122/Avatar1.png
+c000000004ECC831C0000000000000C5F
+t1322025756
+s3167
+
+N/Users/curer/code/TestCode/122/Classes/RootViewController.h
+c000000004F2F90060000000000000151
+t1328517126
+s337
+i<UIKit/UIKit.h>
+
+N/Users/curer/code/TestCode/122/Classes/RootViewController.m
+c000000004F2F914A00000000000016BC
+t1328517450
+s5820
+i"RootViewController.h"
+i"TestVC.h"
+i"TestTableViewCell.h"
+
+N/Users/curer/code/TestCode/122/Classes/TestTableViewCell.h
+c000000004F2F8F200000000000000146
+t1328516896
+s326
+i<UIKit/UIKit.h>
+
+N/Users/curer/code/TestCode/122/Classes/TestTableViewCell.m
+c000000004F2F9154000000000000041D
+t1328517460
+s1053
+i"TestTableViewCell.h"
+
+N/Users/curer/code/TestCode/122/Classes/TestTableViewCell.xib
+c000000004F2F8F430000000000003D4A
+t1328516931
+s15690
+
+N/Users/curer/code/TestCode/122/Classes/TestVC.h
+c000000004F2F7F42000000000000025C
+t1328512834
+s604
+i<UIKit/UIKit.h>
+
+N/Users/curer/code/TestCode/122/Classes/TestVC.m
+c000000004F2F8FD90000000000000B16
+t1328517081
+s2838
+i"TestVC.h"
+i"RootViewController.h"
+
+N/Users/curer/code/TestCode/122/Classes/TestVC.xib
+c000000004F2F7EC70000000000005022
+t1328512711
+s20514
+
+N/Users/curer/code/TestCode/122/Classes/_22AppDelegate.h
+c000000004F2F55BF00000000000001D4
+t1328502207
+s468
+i<UIKit/UIKit.h>
+
+N/Users/curer/code/TestCode/122/Classes/_22AppDelegate.m
+c000000004F2F55BF0000000000000B01
+t1328502207
+s2817
+i"_22AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/curer/code/TestCode/122/MainWindow.xib
+c000000004F2F55BF0000000000005FE4
+t1328502207
+s24548
+
+N/Users/curer/code/TestCode/122/RootViewController.xib
+c000000004F2F55BF000000000000444E
+t1328502207
+s17486
+
+N/Users/curer/code/TestCode/122/_22_Prefix.pch
+c000000004F2F55BF0000000000000146
+t1328502207
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/122.LinkFileList
+c000000004F2F8E4C0000000000000239
+t1328516684
+s569
+
+N/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/RootViewController.o
+t1328517461
+s47912
+
+N/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestTableViewCell.o
+t1328517461
+s42332
+
+N/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestVC.o
+t1328517127
+s49992
+
+N/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/_22AppDelegate.o
+t1328517127
+s52796
+
+N/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/main.o
+t1328502219
+s6296
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app
+t1328517461
+s340
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app.dSYM
+t1328517461
+s102
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122
+t1328517461
+s27976
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/Avatar1.png
+t1328502398
+s3167
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/Info.plist
+t1328502217
+s575
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/MainWindow.nib
+t1328502218
+s2450
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/PkgInfo
+t1328502217
+s8
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/RootViewController.nib
+t1328502218
+s1518
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/TestTableViewCell.nib
+t1328516932
+s2462
+
+N/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/TestVC.nib
+t1328512726
+s2493
+
+N/Users/curer/code/TestCode/122/main.m
+c000000004F2F55BF000000000000016E
+t1328502207
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch.gch
+t1328502219
+s15814064
+
+N_22-Info.plist
+c000000004F2F55BF00000000000003AB
+t1328502207
+s939
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies350211120#350211121#0(0"0(0#1#0"8627992224#0"0#
+
+CCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/RootViewController.o /Users/curer/code/TestCode/122/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350210261.448373
+e350210261.565007
+r1
+xCompileC
+xbuild/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/RootViewController.o
+x/Users/curer/code/TestCode/122/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/curer/code/TestCode/122/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/curer/code/TestCode/122/Classes/RootViewController.m:80: warning: incompatible Objective-C types initializing 'struct UITableViewCell *', expected 'struct TestTableViewCell *'
+lSLF07#2@67"Compile /Users/curer/code/TestCode/122/Classes/RootViewController.m350210261#350210261#0(314"/Users/curer/code/TestCode/122/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/curer/code/TestCode/122/Classes/RootViewController.m:80: warning: incompatible Objective-C types initializing 'struct UITableViewCell *', expected 'struct TestTableViewCell *'1(22@109"Incompatible Objective-C types initializing 'struct UITableViewCell *', expected 'struct TestTableViewCell *'350210261#131#183#0(6@59"/Users/curer/code/TestCode/122/Classes/RootViewController.m350210250#80#0#80#0#61"incompatible Objective-C types initializing '*', expected '*'0(0#0#59"/Users/curer/code/TestCode/122/Classes/RootViewController.m8616999584#1782"    cd /Users/curer/code/TestCode/122    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-generated-files.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-own-target-headers.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-all-target-headers.hmap -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-project-headers.hmap -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -I/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/include -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources/i386 -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources -include /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch -c /Users/curer/code/TestCode/122/Classes/RootViewController.m -o /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestTableViewCell.o /Users/curer/code/TestCode/122/Classes/TestTableViewCell.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350210261.449554
+e350210261.548647
+r1
+xCompileC
+xbuild/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestTableViewCell.o
+x/Users/curer/code/TestCode/122/Classes/TestTableViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/curer/code/TestCode/122/Classes/TestTableViewCell.m350210261#350210261#0(0"0(0#0#58"/Users/curer/code/TestCode/122/Classes/TestTableViewCell.m8651086400#1780"    cd /Users/curer/code/TestCode/122    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-generated-files.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-own-target-headers.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-all-target-headers.hmap -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-project-headers.hmap -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -I/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/include -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources/i386 -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources -include /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch -c /Users/curer/code/TestCode/122/Classes/TestTableViewCell.m -o /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestTableViewCell.o0#
+
+CCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestVC.o /Users/curer/code/TestCode/122/Classes/TestVC.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350209927.466249
+e350209927.566339
+r1
+xCompileC
+xbuild/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestVC.o
+x/Users/curer/code/TestCode/122/Classes/TestVC.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/curer/code/TestCode/122/Classes/TestVC.m350209927#350209927#0(0"0(0#0#47"/Users/curer/code/TestCode/122/Classes/TestVC.m8636808064#1758"    cd /Users/curer/code/TestCode/122    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-generated-files.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-own-target-headers.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-all-target-headers.hmap -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-project-headers.hmap -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -I/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/include -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources/i386 -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources -include /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch -c /Users/curer/code/TestCode/122/Classes/TestVC.m -o /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/TestVC.o0#
+
+CCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/_22AppDelegate.o /Users/curer/code/TestCode/122/Classes/_22AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350209927.354286
+e350209927.466139
+r1
+xCompileC
+xbuild/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/_22AppDelegate.o
+x/Users/curer/code/TestCode/122/Classes/_22AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/curer/code/TestCode/122/Classes/_22AppDelegate.m350209927#350209927#0(0"0(0#0#55"/Users/curer/code/TestCode/122/Classes/_22AppDelegate.m8618007616#1774"    cd /Users/curer/code/TestCode/122    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-generated-files.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-own-target-headers.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-all-target-headers.hmap -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-project-headers.hmap -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -I/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/include -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources/i386 -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources -include /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch -c /Users/curer/code/TestCode/122/Classes/_22AppDelegate.m -o /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/_22AppDelegate.o0#
+
+CCompileC build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/main.o /Users/curer/code/TestCode/122/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s350195019.831614
+e350195019.901196
+r1
+xCompileC
+xbuild/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/main.o
+x/Users/curer/code/TestCode/122/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/curer/code/TestCode/122/main.m350195019#350195019#0(0"0(0#0#37"/Users/curer/code/TestCode/122/main.m8614856384#1746"    cd /Users/curer/code/TestCode/122    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-generated-files.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-own-target-headers.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-all-target-headers.hmap -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-project-headers.hmap -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -I/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/include -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources/i386 -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources -include /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch -c /Users/curer/code/TestCode/122/main.m -o /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/curer/code/TestCode/122/Classes/TestTableViewCell.xib
+s350209732.458423
+e350209732.952420
+r1
+xCompileXIB
+x/Users/curer/code/TestCode/122/Classes/TestTableViewCell.xib
+lSLF07#2@40"CompileXIB Classes/TestTableViewCell.xib350209732#350209732#0(0"0(0#0#60"/Users/curer/code/TestCode/122/Classes/TestTableViewCell.xib8649059712#564"    cd /Users/curer/code/TestCode/122    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/TestTableViewCell.nib /Users/curer/code/TestCode/122/Classes/TestTableViewCell.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/curer/code/TestCode/122/Classes/TestVC.xib
+s350205526.083048
+e350205526.712039
+r1
+xCompileXIB
+x/Users/curer/code/TestCode/122/Classes/TestVC.xib
+lSLF07#2@29"CompileXIB Classes/TestVC.xib350205526#350205526#0(0"0(0#0#49"/Users/curer/code/TestCode/122/Classes/TestVC.xib8634041824#542"    cd /Users/curer/code/TestCode/122    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/TestVC.nib /Users/curer/code/TestCode/122/Classes/TestVC.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/curer/code/TestCode/122/MainWindow.xib
+s350195017.884620
+e350195018.645420
+r1
+xCompileXIB
+x/Users/curer/code/TestCode/122/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib350195017#350195018#0(0"0(0#0#45"/Users/curer/code/TestCode/122/MainWindow.xib8610405536#542"    cd /Users/curer/code/TestCode/122    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/MainWindow.nib /Users/curer/code/TestCode/122/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/curer/code/TestCode/122/RootViewController.xib
+s350195017.885423
+e350195018.733161
+r1
+xCompileXIB
+x/Users/curer/code/TestCode/122/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib350195017#350195018#0(0"0(0#0#53"/Users/curer/code/TestCode/122/RootViewController.xib8605394624#558"    cd /Users/curer/code/TestCode/122    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/RootViewController.nib /Users/curer/code/TestCode/122/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/122.app/Avatar1.png Avatar1.png
+s350195198.702338
+e350195198.784304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/122.app/Avatar1.png
+xAvatar1.png
+lSLF07#2@16"Copy Avatar1.png350195198#350195198#0(0"0(0#0#42"/Users/curer/code/TestCode/122/Avatar1.png8615462144#441"    cd /Users/curer/code/TestCode/122    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/curer/code/TestCode/122/Avatar1.png /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app0#
+
+CGenerateDSYMFile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app.dSYM /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122
+s350210261.606791
+e350210261.629317
+r1
+xGenerateDSYMFile
+x/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app.dSYM
+x/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122
+lSLF07#2@97"GenerateDSYMFile build/Debug-iphonesimulator/122.app.dSYM build/Debug-iphonesimulator/122.app/122350210261#350210261#0(0"0(0#0#70"/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/1228648347264#347"    cd /Users/curer/code/TestCode/122    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122 -o /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app.dSYM0#
+
+CLd /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122 normal i386
+s350210261.565110
+e350210261.606423
+r1
+xLd
+x/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122
+xnormal
+xi386
+lSLF07#2@75"Link /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/122350210261#350210261#0(0"0(0#0#0"8650465920#840"    cd /Users/curer/code/TestCode/122    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -filelist /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/Objects-normal/i386/122.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/1220#
+
+CProcessInfoPlistFile /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/Info.plist _22-Info.plist
+s350195017.687245
+e350195017.884513
+r1
+xProcessInfoPlistFile
+x/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/Info.plist
+x_22-Info.plist
+lSLF07#2@22"Process _22-Info.plist350195017#350195017#0(0"0(0#0#45"/Users/curer/code/TestCode/122/_22-Info.plist8616843776#443"    cd /Users/curer/code/TestCode/122    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility _22-Info.plist -genpkginfo /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app/Info.plist0#
+
+CProcessPCH /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch.gch _22_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s350195018.733299
+e350195019.831391
+r1
+xProcessPCH
+x/var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch.gch
+x_22_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@25"Precompile _22_Prefix.pch350195018#350195019#0(0"0(0#0#45"/Users/curer/code/TestCode/122/_22_Prefix.pch8646777536#1650"    cd /Users/curer/code/TestCode/122    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-generated-files.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-own-target-headers.hmap -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-all-target-headers.hmap -iquote /Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/122-project-headers.hmap -F/Users/curer/code/TestCode/122/build/Debug-iphonesimulator -I/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/include -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources/i386 -I/Users/curer/code/TestCode/122/build/122.build/Debug-iphonesimulator/122.build/DerivedSources -c /Users/curer/code/TestCode/122/_22_Prefix.pch -o /var/folders/+c/+cXMmEolHnydp8emxvAfBE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/_22_Prefix-acjalvfkucjnnxecopqiabgwtslj/_22_Prefix.pch.gch0#
+
+CTouch /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app
+s350210261.629417
+e350210261.632569
+r1
+xTouch
+x/Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app
+lSLF07#2@72"Touch /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app350210261#350210261#0(0"0(0#0#0"8646474272#258"    cd /Users/curer/code/TestCode/122    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/curer/code/TestCode/122/build/Debug-iphonesimulator/122.app0#
+
